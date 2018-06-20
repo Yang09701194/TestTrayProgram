@@ -1,0 +1,5 @@
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\NotifyIconWpf\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\NotifyIconWpf\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\NotifyIconWpf\obj\Debug\NotifyIconWpf.csprojResolveAssemblyReference.cache
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\NotifyIconWpf\obj\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\NotifyIconWpf\obj\Debug\Hardcodet.Wpf.TaskbarNotification.pdb

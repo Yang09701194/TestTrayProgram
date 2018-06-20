@@ -1,0 +1,53 @@
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\bin\Debug\Sample Project.exe
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\bin\Debug\Sample Project.pdb
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Sample Project.csprojResolveAssemblyReference.cache
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\09 - MVVM\ClockPopup.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\FancyToolTip.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\FancyBalloon.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\FancyPopup.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Main.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\01 - Declaration\NotifyIconResourceDictionary.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\01 - Declaration\SimpleWindowWithNotifyIcon.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\02 - ToolTips\SimpleUserControl.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\02 - ToolTips\InlineToolTipWindow.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\07 - Events\EventVisualizerWindow.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\05 - Balloons\BalloonSampleWindow.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\08 - DataBinding\DataBoundToolTipWindow.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\WelcomeBalloon.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\App.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\09 - MVVM\ClockPopup.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\09 - MVVM\MvvmSampleWindow.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\FancyToolTip.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\FancyBalloon.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\FancyPopup.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Main.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\02 - ToolTips\UserControlToolTipWindow.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\01 - Declaration\SimpleWindowWithNotifyIcon.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\02 - ToolTips\SimpleUserControl.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\02 - ToolTips\InlineToolTipWindow.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\03 - Popups\InlinePopupWindow.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\04 - ContextMenus\InlineContextMenuWindow.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\06 - Commands\CommandWindow.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\07 - Events\EventVisualizerWindow.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\05 - Balloons\BalloonSampleWindow.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\08 - DataBinding\DataBoundToolTipWindow.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\WelcomeBalloon.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\ShowcaseWindow.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\App.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Sample Project_MarkupCompile.cache
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Sample Project_MarkupCompile.lref
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\09 - MVVM\MvvmSampleWindow.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\NotifyIconResources.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\02 - ToolTips\UserControlToolTipWindow.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\03 - Popups\InlinePopupWindow.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\04 - ContextMenus\InlineContextMenuWindow.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Tutorials\06 - Commands\CommandWindow.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Showcase\ShowcaseWindow.baml
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Sample Project.g.resources
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Samples.Properties.Resources.resources
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Sample Project.csproj.GenerateResource.Cache
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Sample Project.exe
+E:\GS2018\E\Yang\Program\Git\GitYang\TestTrayProgram\wpf-notifyicon\Sample Project\obj\Debug\Sample Project.pdb
