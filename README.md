@@ -25,13 +25,13 @@ TestTrayProgram
     * [LowLevelKeyboardProc callback function](https://msdn.microsoft.com/zh-tw/library/windows/desktop/ms644985%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396)
     * [(Google Group)Global keyboard and mouse hooks](https://groups.google.com/forum/#!topic/borland.public.delphi.winapi/9P2BWuc72SU)
     * [(Python) boppreh/keyboard](https://github.com/boppreh/keyboard)
-    * [Seems hard - ](http://blog.xuite.net/peterlee.tw/twblog/112094832-Hook%E7%B0%A1%E4%BB%8B)
+    * [Seems hard - Hook簡介](http://blog.xuite.net/peterlee.tw/twblog/112094832-Hook%E7%B0%A1%E4%BB%8B)
     * [Hooks Overview](https://msdn.microsoft.com/en-us/library/ms644959(VS.85).aspx)
     * [Register hotkey for the current app (CSRegisterHotkey)](https://code.msdn.microsoft.com/CSRegisterHotkey-e3f5061e)
     
 * Send Key
   * Finally use `System.Windows.Forms.SendKeys.SendWait("^v");` works great
-  * google `c# send key to active window`, 
+  * google `c# send key to active window`
   * [如何：以程式碼模擬滑鼠和鍵盤事件](https://docs.microsoft.com/zh-tw/dotnet/framework/winforms/how-to-simulate-mouse-and-keyboard-events-in-code)
   * [C# using Sendkey function to send a key to another application](https://stackoverflow.com/questions/15292175/c-sharp-using-sendkey-function-to-send-a-key-to-another-application)
   * [How can I send keys to a non active window?](https://social.msdn.microsoft.com/Forums/vstudio/en-US/6ed52d64-572f-4d3b-9938-369125c74798/how-can-i-send-keys-to-a-non-active-window?forum=csharpgeneral)
