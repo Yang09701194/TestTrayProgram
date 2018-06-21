@@ -50,6 +50,7 @@ TestTrayProgram
   
 * Other
   * [png to icon](https://redketchup.io/icon/convert)
-  
+  * [WPF LinearGradientBrush using XAML](https://www.c-sharpcorner.com/uploadfile/prathore/wpf-lineargradientbrush-using-xaml/)
+  * [Execute code when a WPF closes](https://stackoverflow.com/questions/10018308/execute-code-when-a-wpf-closes)
   
   
