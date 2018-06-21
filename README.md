@@ -36,16 +36,20 @@ TestTrayProgram
   * [C# using Sendkey function to send a key to another application](https://stackoverflow.com/questions/15292175/c-sharp-using-sendkey-function-to-send-a-key-to-another-application)
   * [How can I send keys to a non active window?](https://social.msdn.microsoft.com/Forums/vstudio/en-US/6ed52d64-572f-4d3b-9938-369125c74798/how-can-i-send-keys-to-a-non-active-window?forum=csharpgeneral)
   * [Create page SendInput (user32)](http://www.pinvoke.net/default.aspx/user32.SendInput)
+  * [C# 模擬滑鼠鍵盤輸入操作 SendKeys()](https://mooninlaputa.blogspot.com/2013/12/c-sendkeys.html?showComment=1529564864344#c1482568959012611963)
   
 * Get Top Level Process
   * google `get top level window of process`
+  * [Useful - Determine the active Window of a process](https://www.experts-exchange.com/questions/26585766/Determine-the-active-Window-of-a-process.html)
   * [Get Top Level Windows](https://social.msdn.microsoft.com/Forums/vstudio/en-US/88d1121d-ee20-474c-9101-ef72558ecbd9/get-top-level-windows?forum=csharpgeneral)
   * [Process.MainWindowHandle](https://msdn.microsoft.com/zh-tw/library/system.diagnostics.process.mainwindowhandle%28v=vs.110%29.aspx?f=255&MSPPError=-2147217396)
+  
 * User32.dll
   * google `user32.dll documentation`
   * [When to use User32.dll and how?](https://social.msdn.microsoft.com/Forums/windows/en-US/b04153ff-e4fb-4500-a8e4-3a685208af57/when-to-use-user32dll-and-how?forum=winforms)
-  * [C# 模擬滑鼠鍵盤輸入操作 SendKeys()](https://mooninlaputa.blogspot.com/2013/12/c-sendkeys.html?showComment=1529564864344#c1482568959012611963)
   
+* Other
+  * [png to icon](https://redketchup.io/icon/convert)
   
   
   
