@@ -35,8 +35,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Hardcodet.Wpf.TaskbarNotification">
+      <HintPath>..\DLLs\Hardcodet.Wpf.TaskbarNotification.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -55,6 +59,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Command\CommandBase.cs" />
+    <Compile Include="Command\Commands.cs" />
+    <Compile Include="View\RecordWindow.xaml.cs">
+      <DependentUpon>RecordWindow.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -64,10 +73,15 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Helper\GlobalKeyboardHook.cs" />
+    <Compile Include="Helper\ProcessFocus.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="View\RecordWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -95,6 +109,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMGs\Microphone-Hot-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMGs\Microphone-Hot-icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMGs\close-icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

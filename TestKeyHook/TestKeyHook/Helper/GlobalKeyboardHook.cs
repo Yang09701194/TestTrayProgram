@@ -179,6 +179,12 @@ namespace SnagFree.TrayApp.Core
         //const int VkTab = 0x09;
         //const int VkEscape = 0x18;
         //const int VkControl = 0x11;
+
+        public const int RightCtrl = 163;
+        public const int RightAlt = 165;
+        public const int F11 = 122;
+
+
         const int KfAltdown = 0x2000;
         public const int LlkhfAltdown = (KfAltdown >> 8);
 

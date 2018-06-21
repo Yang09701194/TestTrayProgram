@@ -5,8 +5,41 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TestKeyHook"
         mc:Ignorable="d"
+        xmlns:tb="http://www.hardcodet.net/taskbar"
+        xmlns:command="clr-namespace:TestKeyHook.Command"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+    <StackPanel>
+        <tb:TaskbarIcon x:Name="MyNotifyIcon" IconSource="/IMGs/Microphone-Hot-icon.ico" ToolTipText="Test Record">
+            <tb:TaskbarIcon.ContextMenu>
+                <ContextMenu>
+                    <!--<TextBlock Text="Hiding the sample window will not close it!" />-->
+                    <MenuItem Header="_Exit [E]"
+                              Click="Exit_OnClick"
+                              >
+                        <!--Command="{command:ShowSampleWindowCommand}"
+                              CommandParameter="{Binding}"-->
+                        <MenuItem.Icon>
+                            <Image Width="16"
+                                   Height="16"
+                                   Source="IMGs/close-icon.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+
+                    <Separator />
+
+                    <!--<MenuItem Header="_Hide Sample Window [H]"
+                              Command="{commands:HideSampleWindowCommand}"
+                              CommandParameter="{Binding}">
+                        <MenuItem.Icon>
+                            <Image Width="16"
+                                   Height="16"
+                                   Source="/Images/Remove.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>-->
+                </ContextMenu>
+            </tb:TaskbarIcon.ContextMenu>
+        </tb:TaskbarIcon>
+        <TextBox Name="Tbx" VerticalScrollBarVisibility="Auto" MaxHeight="300"></TextBox>
+    </StackPanel>
 </Window>
+        
